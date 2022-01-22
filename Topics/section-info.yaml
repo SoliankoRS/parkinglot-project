@@ -1,0 +1,20 @@
+content:
+- Work with MutableLists
+- For loop and lists
+- Getting substrings
+- Characters
+- Processing strings
+- Relational operators
+- Named arguments
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Taming exceptions
+- The try-catch statement
+- The try-catch-finally statement
+- Nullable and non-nullable types
+- Null safety
+- Type system
+- Inheritance
+- toString()
+- Data class
